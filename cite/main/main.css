@@ -35,6 +35,43 @@ h1{
 .photo1{
     background-image: url(../img/1.png);
 }
+
+.photo2{
+    background-image: url(../img/2.png);
+    }
+.photo3{
+    background-image: url(../img/3.png);
+}
+.photo4{
+    background-image: url(../img/4.png);
+}
+.photo5{
+
+    background-image: url(../img/5.png);
+}
+
+.photo6{
+    background-image: url(../img/6.png);
+}
+
+.photo7{
+    background-image: url(../img/7.png);
+}
+.photo8{
+    background-image: url(../img/8.png);
+}
+.photo9{
+    background-image: url(../img/9.png);
+}
+.photo10{
+    background-image: url(../img/10.png);
+}
+.photo11{
+    background-image: url(../img/11.png);
+}
+.photo12{
+    background-image: url(../img/12.png);
+}
 .photo:hover {
     transform: rotate(3deg) scale(1.07);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.2);
